@@ -18,3 +18,6 @@ Zkrácená verze:
 - potvrďte, a revision control by měl být plně nastaven
 
 Poté můžete používal Unreal diff tool, když to máte nastavené v rámci enginu, ale pro submit jak Github, tak Unreal Engine.
+
+
+jakoby?
